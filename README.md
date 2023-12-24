@@ -19,4 +19,5 @@ Benefits of using JsonPowerDB::
 •	high availablility
 
 •	Pluggable API framework for easy intergration into projects
+   
 Release History : v0.3.2.20220829.2828 beta
